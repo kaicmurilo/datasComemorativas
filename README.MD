@@ -19,7 +19,7 @@ Abra o terminal e navegue até a pasta onde o arquivo index.js está localizado.
 Execute o seguinte comando para instalar as dependências necessárias:
 
 ```bash
-npm install axios
+npm install
 ```
 
 Execute o seguinte comando para executar o script:
